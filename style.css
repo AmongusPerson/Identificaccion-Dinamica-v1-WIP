@@ -1,0 +1,9 @@
+body {
+    background-image: url(papel.jpg);
+    background-size: 100%;
+}
+
+label {
+    background-color: rgba(123, 191, 255, 0.822);
+    -ms-high-contrast-adjust: ;
+}
